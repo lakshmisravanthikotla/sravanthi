@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>LAKSHMIRAVANTHIKOTLA</h1>
+        <p>Your tagline or brief introduction</p>
+    </header>
+
+    <section id="about">
+        <img src="C:\Users\SAI BHASKAR REDDY\Desktop\CODESOFT\SRAVS.jpeg" alt="LAKSHMIRAVANTHIKOTLA">
+        <p> Iam LAKSHMIRAVANTHIKOTLA Aiming to leverage my passion for Artificial Intelligence and Machine learning and my existing knowledge and analytical skills to gain a deep understanding of advanced concepts, develop strong leadership abilities, and equip myself with the necessary tools for a successful career in strategic management and organizational leadership.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>AI</li>
+            <li>ML</li>
+            <li>PYTHON</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>EMAIL SPAM DETECTION </h3>
+            <p>Spam e-mail detection involves applying algorithms and rules to locate and delete unwanted or unwelcome e-mails</p>
+            <img src="C:\Users\SAI BHASKAR REDDY\Desktop\CODESOFT\EMAIL SPAM.png" alt="Project Image">
+        </div>
+    </section>
+
+    <section id="resume">
+        <a href="C:\Users\SAI BHASKAR REDDY\Desktop\CODESOFT" download>Download Resume</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: k.l.sravanthi233@gmail.com</p>
+        <p>Phone: 8790802831</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 LAKSHMISRAVANTHIKOTLA. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
